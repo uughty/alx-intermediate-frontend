@@ -1,8 +1,8 @@
-/** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{html,js}"],
+  content: ["./1-index.html"],  // since 1-index.html is outside src
   theme: {
     extend: {},
   },
   plugins: [],
 }
+
