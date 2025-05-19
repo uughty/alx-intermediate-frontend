@@ -1,0 +1,4 @@
+1. Navigated to the repository: alx-intermediate-frontend
+2. Created directory: 0x03-sass_scss
+3. Ran: npm install sass
+4. Confirmed installation with: npx sass --version
